@@ -1,0 +1,92 @@
+body{
+    margin: auto;
+}
+header{
+      background: url(./img/header.png);
+      background-repeat: no-repeat;
+      background-size:cover;
+      text-align: right;
+      color: rgb(238, 209, 172);
+
+     font-family: "Keania One", sans-serif;
+     font-style: normal;
+
+     padding-inline: 20px;
+      
+}
+h1{
+    font-size: 100px;
+    margin: auto;
+    border-bottom: 1px solid;
+    
+}
+header>h2{
+    font-size: 50px;
+    margin: auto;
+    font-family: "Keania One", sans-serif;
+}
+h2{
+    font-family: "Lacquer", system-ui;
+   font-size: 40px;
+   font-style: normal;
+   margin-top: 2px;
+   margin-bottom: 0px;
+}
+p{
+    margin-top: 0px;
+    font-family: "Lacquer", system-ui;
+  font-size: 26px;
+  font-style: normal;
+}
+
+main{
+    margin-top: 0px;
+    height: 750px;
+    width: 1920px;
+    background-image: url(./img/background.jpg);  
+    display: inline-flex;
+    justify-content: center;
+    justify-content:space-around;
+}
+section{
+     background-image: url(./img/section.jpg);
+    margin-top: 38px;
+    width: 30%;
+    height: 90%;
+    display:inline-block;
+}
+article{
+    padding-inline: 3%;
+}
+
+.videos{
+    padding-inline: 3%;
+}
+
+.spotify{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.reproductor{
+    display: inline-block;
+}
+img{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 550px;
+    height: 200px;
+}
+
+
+
+
+
+footer{
+     background-image: url(./img/footer.jpg);
+     height:24px;
+     color: rgb(238, 209, 172);
+     font-size: 20px;
+     text-align:center;
+     
+}
