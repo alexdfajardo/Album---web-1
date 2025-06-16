@@ -21,9 +21,11 @@ a {
     text-align: center;
     background-color: rgba(247, 242, 180, 0.918);
     border: 3px solid rgb(175, 144, 4);
+    border-radius: 20px 20px 20px 1px;
     margin-bottom: 5%;
     font-size: 30px;
    color: rgb(82, 19, 0);
+   margin-inline: 20px;
    
 }
      
